@@ -28,7 +28,7 @@ This project predicts music genres (Rock, Hip-Hop, Pop) based on audio features 
 2. Run the script: `python music_genre_prediction.py`
 
 ## Visualizations
-- [confusion_matrix.png]()
+- [confusion_matrix.png](https://github.com/AndreySukhanov/ML_classification/blob/16a241632f3bcd1660d05f6e8c582fe80485011c/confusion_matrix.png)
 - [energy_danceability.png](https://github.com/AndreySukhanov/ML_classification/blob/4a4356bcc9be05ca9c8f58dba0e589f3c4f7c5ea/energy_danceability.png)
 
 ## Notes
