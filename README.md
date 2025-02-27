@@ -28,8 +28,8 @@ This project predicts music genres (Rock, Hip-Hop, Pop) based on audio features 
 2. Run the script: `python music_genre_prediction.py`
 
 ## Visualizations
-- [confusion_matrix.png](#)
-- [energy_danceability.png](#) https://github.com/AndreySukhanov/ML_classification/blob/4a4356bcc9be05ca9c8f58dba0e589f3c4f7c5ea/energy_danceability.png
+- [confusion_matrix.png]()
+- [energy_danceability.png](https://github.com/AndreySukhanov/ML_classification/blob/4a4356bcc9be05ca9c8f58dba0e589f3c4f7c5ea/energy_danceability.png)
 
 ## Notes
 This is a synthetic dataset for educational purposes. For real-world applications, you can use the Spotify Tracks Dataset from Kaggle or the Spotify API.
